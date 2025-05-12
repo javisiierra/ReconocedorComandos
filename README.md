@@ -59,7 +59,3 @@ ReconocedorComandos/
 - El APK generado no está incluido en el repositorio.
 - Recuerda agregar permisos de audio en el `AndroidManifest.xml`.
 
-## Autor
-
-**Javier Sierra**  
-[GitHub](https://github.com/javisiierra)
